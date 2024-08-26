@@ -1,5 +1,6 @@
 # PhoenixApp
 
+This is a phoenix application by Sadson Mkumira.
 To start your Phoenix server:
 
   * Run `mix setup` to install and setup dependencies
